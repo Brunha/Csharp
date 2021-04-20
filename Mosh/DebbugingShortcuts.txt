@@ -1,0 +1,14 @@
+
+F9 - Breakpoint
+
+F5 - Run in the debug mode
+Ctrl + F5 - Run without debug
+Shift + F5 - Stop the debug mode
+
+F10 - Step Over
+F11 - Step Into
+Shift + F11 - Step out a method
+
+breakpoints window - windows -> breakpoints
+watch window - windows -> watch -- Similar to autos and locals windows
+call stack - windows -> call stack -- shows the order of methods since the app ran until the present point
