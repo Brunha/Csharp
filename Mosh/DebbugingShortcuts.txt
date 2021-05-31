@@ -9,6 +9,21 @@ F10 - Step Over
 F11 - Step Into
 Shift + F11 - Step out a method
 
+Ctrl + Tab - moving around the tabs
+
+"ctor" - abbreviation to creating a constructor
+"wl" - abbreviation for writeline
+"rl" - abbreviation for readline
+"prop" - abbreviation to create properties
+
 breakpoints window - windows -> breakpoints
 watch window - windows -> watch -- Similar to autos and locals windows
 call stack - windows -> call stack -- shows the order of methods since the app ran until the present point
+
+
+private -> accessible only from the class
+
+protected -> Accessible only from the class and its derived classes -> not fully private
+
+internal -> accessible only from the same assembly -> only show fro one designation
+
