@@ -1,3 +1,4 @@
+https://programmingwithmosh.com/net/csharp-6-features-that-help-you-write-cleaner-code/
 
 F9 - Breakpoint
 
@@ -27,3 +28,4 @@ protected -> Accessible only from the class and its derived classes -> not fully
 
 internal -> accessible only from the same assembly -> only show fro one designation
 
+Shift + Tab -> returns tab spaces
